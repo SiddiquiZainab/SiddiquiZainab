@@ -11,6 +11,10 @@ Hi, I'm Zainab Siddiqui, a passionate AI Developer with experience in developing
 - Tools: Git, Jupyter, PyCharm, Google Colab, VS Code, Knime, Alteryx, PowerBI, Tableau, DataBricks, AWS Sagemaker, FastAPI
 
 ## Projects
+
+### [Song Lyrics Generation Model](https://github.com/SiddiquiZainab/Song-Lyrics-Generation-Model)
+A machine learning model for generating song lyrics using advanced neural network techniques. This model leverages Bi-directional LSTM to create coherent and creative lyrics in various styles.
+
 ### [Fruit Classification Using Transfer Learning](https://github.com/SiddiquiZainab/FruitC)
 A deep learning model for accurate classification  of 10 fruit categories. The objective is to build a model that can accurately identify the type of fruit based on images.
 
