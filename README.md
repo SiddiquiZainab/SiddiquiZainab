@@ -5,8 +5,9 @@ Hi, I'm Zainab Siddiqui, a passionate AI Developer with experience in developing
 
 ## Skills
 - Programming: Python
-- Machine Learning: TensorFlow, PyTorch, Scikit-learn, Pandas, Numpy
-- Big Data: Hadoop, Hive, HBase, Spark (PySpark), Map Reduce, YARN
+- Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-learn, Pandas, Numpy
+- Generative AI & Agentic AI: LLMs, HuggingFace, Langchain, Langgraph, CrewAI, Semantic Kernel, AutoGen
+- Big Data: Hadoop, Hive, HBase, Spark (PySpark), MapReduce, YARN
 - Web Development: Streamlit, Gardio, Flask
 - Tools: Git, Jupyter, PyCharm, Google Colab, VS Code, Knime, Alteryx, PowerBI, Tableau, DataBricks, AWS Sagemaker, FastAPI
 
@@ -26,18 +27,6 @@ A project about predicting heart disease using machine learning models and ensem
 
 ### [Streamlit Web Application For Analyzing Sentiment](https://github.com/SiddiquiZainab/Sentiment)
 A web application for sentiment analysis built using Streamlit. The application analyzes digital text to determine if the emotional tone of the message is positive, negative, or neutral.
-
-## Experience
-- Machine Learning Engineer at Anubrain Technology (Dec 2022 - Present)
-  - Analyzing the business problem and strategizing a plan of action (solution)
-  - Creating stunning dashboards with Tableau and PowerBI
-  - Working with Big Data using Hadoop and Hadoop ecosystem tools to solve complex business problems
-  - Writing queries to extract, transform, and load data into appropriate formats for downstream tasks like modeling
-  - Training and testing models built using machine learning and deep learning (both supervised and unsupervised)
-  - Working on system design and enhancements to achieve better model performance for the desired goals
-  - Creating model APIs that can be integrated with web apps, mobile apps, and websites
-  - Managing and leading projects, ensuring timely delivery and successful implementation.
-  - Staying updated with the latest advancements in machine learning and AI technologies to improve skills and knowledge continuously.
 
 ## Education
 - PGP in Data Science, Great Lakes (in association with UT Austin) (2022)
